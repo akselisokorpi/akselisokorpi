@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akselisokorpi
-- 👀 I’m interested in learning full-stack developement, starting with the basics.
+- 👀 I’m interested in learning full-stack development, starting with the basics.
 - 🌱 I’m currently learning Python
 
 <!---
