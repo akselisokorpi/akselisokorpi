@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akselisokorpi
-- 👀 I’m interested in learning full-stack development, starting with the basics.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and SQL
+- Looking forward to expanding my knowledge with JS and CSS
 
 <!---
 akselisokorpi/akselisokorpi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
